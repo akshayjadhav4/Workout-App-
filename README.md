@@ -1,13 +1,24 @@
 # Workout App
 
-![Splash Screen](assets\Snapshots\1.png?raw=true "Splash Screen")
 
-![Home Screen](assets\Snapshots\2.png?raw=true "Home Screen")
+## Splash Screen
+![Splash Screen](assets\Snapshots\1.png)
 
-![Workout Detail](assets\Snapshots\3.png?raw=true "Workout Detail")
 
-![Set Rep](assets\Snapshots\4.png?raw=true "Set Rep")
+## Home Screen
+![Home Screen](assets\Snapshots\2.png)
 
-![Workout Timer](assets\Snapshots\5.png?raw=true "Workout TImer")
+## Workout Detail
+![Workout Detail](assets\Snapshots\3.png)
 
-![Break Timer](assets\Snapshots\6.png?raw=true "Break Timer")
+
+## Set Rep
+![Set Rep](assets\Snapshots\4.png)
+
+
+## Workout Timer
+![Workout Timer](assets\Snapshots\5.png)
+
+
+## Break Timer
+![Break Timer](assets\Snapshots\6.png)
